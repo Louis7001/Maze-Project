@@ -41,8 +41,9 @@ This project was inspired by the classic maze games and utilizes the raycasting 
 
 ## Authors
 
+Eluwa Chinedu Joseph [chinexeluwa@gmail.com]
+
 Banjo Oluwaseyifunmi Oluwatunmise [banjoseyi2@gmail.com]
 
 Nzeogu Chinedu Louis [chinedunzeogu@gmail.com]
 
-Eluwa Chinedu Joseph [chinexeluwa@gmail.com]
